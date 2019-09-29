@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26537" started-at="2019-09-29T18:59:18Z" finished-at="2019-09-29T18:59:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26537" started-at="2019-09-29T18:59:18Z" finished-at="2019-09-29T18:59:45Z">
+      <class name="com.Rydo.RydoPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Rydo.RydoPageTest@1d548a08]" name="setup" is-config="true" duration-ms="16106" started-at="2019-09-29T18:59:18Z" finished-at="2019-09-29T18:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnLogin()[pri:1, instance:com.Rydo.RydoPageTest@1d548a08]" name="clickOnLogin" duration-ms="2372" started-at="2019-09-29T18:59:35Z" finished-at="2019-09-29T18:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLogin -->
+        <test-method status="PASS" signature="doLogin()[pri:2, instance:com.Rydo.RydoPageTest@1d548a08]" name="doLogin" duration-ms="7738" started-at="2019-09-29T18:59:37Z" finished-at="2019-09-29T18:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="clickOnManualExpense()[pri:3, instance:com.Rydo.RydoPageTest@1d548a08]" name="clickOnManualExpense" duration-ms="9" started-at="2019-09-29T18:59:45Z" finished-at="2019-09-29T18:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnManualExpense -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Rydo.RydoPageTest@1d548a08]" name="tearDown" is-config="true" duration-ms="5" started-at="2019-09-29T18:59:45Z" finished-at="2019-09-29T18:59:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Rydo.RydoPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

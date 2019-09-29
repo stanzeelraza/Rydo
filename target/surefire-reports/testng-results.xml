@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="33979" started-at="2019-09-29T20:34:30Z" finished-at="2019-09-29T20:35:04Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="33979" started-at="2019-09-29T20:34:30Z" finished-at="2019-09-29T20:35:04Z">
+      <class name="com.Rydo.RydoPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Rydo.RydoPageTest@6a79c292]" name="setup" is-config="true" duration-ms="21388" started-at="2019-09-29T20:34:30Z" finished-at="2019-09-29T20:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickOnLogin()[pri:1, instance:com.Rydo.RydoPageTest@6a79c292]" name="clickOnLogin" duration-ms="3819" started-at="2019-09-29T20:34:52Z" finished-at="2019-09-29T20:34:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLogin -->
+        <test-method status="PASS" signature="doLogin()[pri:2, instance:com.Rydo.RydoPageTest@6a79c292]" name="doLogin" duration-ms="7440" started-at="2019-09-29T20:34:57Z" finished-at="2019-09-29T20:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="clickOnManualExpense()[pri:3, instance:com.Rydo.RydoPageTest@6a79c292]" name="clickOnManualExpense" duration-ms="2" started-at="2019-09-29T20:35:04Z" finished-at="2019-09-29T20:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnManualExpense -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Rydo.RydoPageTest@6a79c292]" name="tearDown" is-config="true" duration-ms="1" started-at="2019-09-29T20:35:04Z" finished-at="2019-09-29T20:35:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Rydo.RydoPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

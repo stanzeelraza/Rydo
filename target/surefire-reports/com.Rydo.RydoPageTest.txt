@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Rydo.RydoPageTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.054 s - in com.Rydo.RydoPageTest
