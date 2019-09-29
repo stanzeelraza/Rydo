@@ -38,7 +38,7 @@ public class RydoPageTest {
 	   
    	}
    /**
-    * To test The exit 
+    * To test The exit funcationality
     */
    @AfterTest
    public void tearDown() {
